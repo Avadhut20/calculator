@@ -1,0 +1,26 @@
+.calc{
+    padding: 15px;
+    border-radius: 2px;
+    height :400px;
+    width: 300px;
+    margin: auto;
+    background-color: blueviolet;
+
+}
+.text-box{
+    width: 93%;
+    height: 55%;
+    font-family: sans-serif;
+    color: white;
+    background-color: darkblue;
+    font-size: 25px;
+}
+input[type=button]{
+    font-family: sans-serif;
+    background-color: darkblue;
+    color: white;
+    border: solid black 0.5px;
+    height: 60%;
+    width: 95%;
+    font-size: 25px;
+}
